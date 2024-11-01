@@ -1,11 +1,5 @@
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/GoblinMine_bot/start?startapp=1197825376)
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/CyberToolz)
-
 
 #  Bot for GoblinMine
-
-![start-goblinmine](https://github.com/user-attachments/assets/a4d30be3-0a47-4b29-9666-bb3402a6d97d)
-
 
 # 🔥🔥 Use PYTHON 3.10 - 3.11.5 🔥🔥
 
